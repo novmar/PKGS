@@ -8,8 +8,8 @@
 # Contributor: Wael Nasreddine <wael.nasreddine@gmail.com>
 
 pkgname=git-crypt-git
-pkgver=0.6.0_0_g546664f
-pkgrel=2
+pkgver=0.6.0_13_g7c8f5f5
+pkgrel=1
 _branch=master
 pkgdesc="Transparent file encryption in Git"
 arch=('x86_64')
