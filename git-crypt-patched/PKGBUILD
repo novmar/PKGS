@@ -1,4 +1,5 @@
-# Maintainer:  Caleb Maclennan <caleb@alerque.com>
+# Maintainer:  Marcel Novotny <marcel.novotny@gmail.com>
+# Contributor: Caleb Maclennan <caleb@alerque.com>
 # Contributor: Eli Schwartz <eschwartz@archlinux.org>
 # Contributor: Andy Weidenbaum <archbaum@gmail.com>
 # Contributor: Daniel Perez <tuvistavie@gmail.com>
@@ -11,7 +12,7 @@ pkgname=git-crypt-patched-git
 pkgver=0.7.0_2_g3349835
 pkgrel=1
 _branch=master
-pkgdesc='Transparent file encryption in Git'
+pkgdesc='Transparent file encryption in Git with patch for worktree'
 arch=(x86_64)
 url="https://www.agwa.name/projects/${pkgname%-patched-git}/"
 license=(GPL3)
